@@ -3,26 +3,23 @@ def add(x : int, y : int) -> int:
 
 
 def sub(x : int, y : int) -> int:
-    pass
+    return x - y
 
 
 def mult(x : int, y : int) -> int:
-    
+    return x * y    
 
 
 def div(x : int, y : int) -> int:
-    pass
+    return x mod y
 
 
 def mod(x : int, y : int) -> int:
-    pass
+    return x mod y
 
 
 def pow(x : int, y : int) -> int:
-    pass
-
-def add(x : int, y : int) -> int:
-    pass
+    return x ^ y
 
 
 if __name__ == '__main__':
