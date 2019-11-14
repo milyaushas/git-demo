@@ -1,5 +1,5 @@
 def add(x : int, y : int) -> int:
-    pass
+    return x + y
 
 
 def sub(x : int, y : int) -> int:
@@ -7,7 +7,7 @@ def sub(x : int, y : int) -> int:
 
 
 def mult(x : int, y : int) -> int:
-    pass
+    
 
 
 def div(x : int, y : int) -> int:
@@ -19,6 +19,9 @@ def mod(x : int, y : int) -> int:
 
 
 def pow(x : int, y : int) -> int:
+    pass
+
+def add(x : int, y : int) -> int:
     pass
 
 
